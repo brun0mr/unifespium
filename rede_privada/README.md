@@ -5,7 +5,8 @@
 
 ## Criando o bloco *genesis*
     Primeiro precisamos iniciar criando o primeiro bloco da nossa cadeia, esse bloco tem o nome de Genesis. Faça isso criando o arquivo genesis.json no local em que você deseja iniciar sua rede e cole o sgeuinte texo nele:
-    
+   
+  '''
     {
   “config”: {
     “chainID”: 15,
@@ -25,4 +26,4 @@
   "alloc": {
   }
 }
-    
+ '''
