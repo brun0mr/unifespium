@@ -8,22 +8,22 @@
    
   '''
     {
-  “config”: {
-    “chainID”: 15,
-    “homesteadBlock”: 0,
-    “eip150Block”: 0,
-    “eip155Block”: 0,
-    “eip158Block”: 0,
-    “byzantiumBlock”: 0,
-    “constantinopleBlock”: 0,
-    “petersburgBlock”: 0,
-    “istanbulBlock”: 1000
+      “config”: {
+        “chainID”: 15,
+        “homesteadBlock”: 0,
+        “eip150Block”: 0,
+        “eip155Block”: 0,
+        “eip158Block”: 0,
+        “byzantiumBlock”: 0,
+        “constantinopleBlock”: 0,
+        “petersburgBlock”: 0,
+        “istanbulBlock”: 1000
   },
-  "difficulty": "0x400",
-  "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "gasLimit": "0xffffffff",
-  "alloc": {
+        "difficulty": "0x400",
+        "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "gasLimit": "0xffffffff",
+        "alloc": {
   }
 }
  '''
